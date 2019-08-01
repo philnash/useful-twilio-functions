@@ -1,4 +1,8 @@
-# Useful Twilio Functions
+# Useful Twilio Functions - Deprecated ⚠️
+
+_This repo is now deprecated in favour of [@twilio-labs/function-templates](https://github.com/twilio-labs/function-templates). There are more templates, better tests and integration with [`twilio-run`](https://github.com/twilio-labs/twilio-run) and [`create-twilio-function`](https://github.com/twilio-labs/create-twilio-function). Please head to [@twilio-labs/function-templates](https://github.com/twilio-labs/function-templates) and start using it for your useful Twilio Functions._
+
+---
 
 [![Build Status](https://travis-ci.org/philnash/useful-twilio-functions.svg?branch=master)](https://travis-ci.org/philnash/useful-twilio-functions)
 
@@ -16,10 +20,10 @@ Each Function lives in its own directory within this repo. To use the code, copy
 
 This is the list of Functions available in this repo:
 
-* [Hello world](hello-world) - A very basic Function to get this repo started
-* [Forward message](forward-message) - Forward incoming SMS messages to another number
-* [Forward message to email using SendGrid](forward-message-as-email)
-* [Hunt/Find me](hunt) - Call a list of numbers in order until one answers
+- [Hello world](hello-world) - A very basic Function to get this repo started
+- [Forward message](forward-message) - Forward incoming SMS messages to another number
+- [Forward message to email using SendGrid](forward-message-as-email)
+- [Hunt/Find me](hunt) - Call a list of numbers in order until one answers
 
 ### Todo
 
